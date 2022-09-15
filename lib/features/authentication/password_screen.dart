@@ -4,8 +4,6 @@ import 'package:ami_probashi/common/widgets/theme_color_textformfield.dart';
 import 'package:ami_probashi/common/widgets/vertical_space.dart';
 import 'package:ami_probashi/config/app_color_config.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 class PasswordScreen extends StatelessWidget {
   const PasswordScreen({super.key});
